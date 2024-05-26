@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="welcome_image_desc">Welcome Image</string>
+    <string name="enter_value">Enter value</string>
+    <string name="convert">Convert</string>
+</resources>
