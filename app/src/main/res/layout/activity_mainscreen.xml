@@ -13,7 +13,7 @@
 
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="StopWatch"
+        android:text="@string/stopwatch"
         android:textColor="#DCDCDC"
 
         android:textSize="50sp"
@@ -31,7 +31,7 @@
         android:layout_width="1000dp"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="$ Stopwatch private lmtd."
+        android:text="@string/stopwatch_private_lmtd"
         android:textColor="#B3B2AF"
 
         android:textSize="17sp"
