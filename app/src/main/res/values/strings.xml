@@ -4,4 +4,10 @@
     <string name="welcome_image_desc">Welcome Image</string>
     <string name="enter_value">Enter value</string>
     <string name="convert">Convert</string>
+    <string name="stopwatch">StopWatch</string>
+    <string name="stopwatch_private_lmtd">$ Stopwatch private lmtd.</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="hold">Hold</string>
 </resources>
